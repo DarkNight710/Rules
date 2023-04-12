@@ -8,8 +8,12 @@
 
 Online
 
-`https://raw.githubusercontent.com/DarkNight710/Rules/main/DN_Online.ini`
+```
+https://raw.githubusercontent.com/DarkNight710/Rules/main/DN_Online.ini
+```
 
 NoDNSleak
 
-`https://raw.githubusercontent.com/DarkNight710/Rules/main/DN_Online_NoDNSLeak.ini`
+```
+https://raw.githubusercontent.com/DarkNight710/Rules/main/DN_Online_NoDNSLeak.ini
+```
